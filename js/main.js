@@ -199,5 +199,6 @@
     }
     $(".wxlook").on("touchstart", function(){
         window.location.href = "http://wansichao.com/down-jl.html";
+        return;
     })
 }();
